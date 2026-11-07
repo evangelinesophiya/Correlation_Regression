@@ -74,4 +74,5 @@ plt.show()
 # Output 
 <img width="692" height="520" alt="image" src="https://github.com/user-attachments/assets/6e3093e2-d84d-4614-b10e-19de554d13c8" />
 # Result
+
 Thus, the Python program to calculate the Correlation Coefficient and Regression Line (Y on X) was executed successfully.
